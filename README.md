@@ -82,17 +82,11 @@ I'm **Yomna Abdelmegeed**, a dedicated Flutter developer from Egypt 🇪🇬
 
 <br clear="both">
 
-<h3>📊 My GitHub Stats</h3>
+### 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yomna-Abdelmegeed&show_icons=true&theme=radical" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-Abdelmegeed&layout=compact&theme=radical" height="200" alt="Top Languages" />
-</div>
+![Yomna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yomna-Abdelmegeed&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yomna-Abdelmegeed&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-Abdelmegeed&layout=compact&theme=radical)
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yomna-Abdelmegeed&theme=radical&hide_border=true" width="500" alt="GitHub Streak" />
-</div>
 
 ###
