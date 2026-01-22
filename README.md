@@ -4,7 +4,7 @@
 
 <img align="right" height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1wejJ2ZXIxZGlwNW5wdmh6M3NucDg5eDc5aGh5Y3FpamYycjJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HW3T1wWW3z2Ff2cpXO/giphy.gif"/>
 
-# 👩‍💻 About Me
+<h3 align="left">👩‍💻 About Me</h2>
 
 Hi, I’m **Yomna Abdelmegeed**, a passionate **Flutter Developer** from Egypt 🇪🇬
 
@@ -22,7 +22,7 @@ Hi, I’m **Yomna Abdelmegeed**, a passionate **Flutter Developer** from Egypt �
 
 ---
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomna-abdelmegeed-91759026a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yomna.developer@gmail.com)
